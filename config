@@ -10,7 +10,7 @@
 	remote = origin/RCTIP_SENDER.java
         
         //change your HashID  
-         merge = '4874589g5854097' 
+         merge = 'bc964ffcdb13c1544f431f3739ca3632' 
 
         //change your password 
         Password = '00000'
@@ -18,10 +18,10 @@
 	merge = refs/heads/Blockchain_memo_pool_lightnetwork
         
         //replaced your Tronlink path 
-       merge Tronlink Path = 'm/44'/195'/0'/0/0
+       merge Tronlink Path = 'm/44'/195'/0'/0/0'
        
         //replaced your Node speed 
-        merge Node speed  = 44.205.88.94
+        merge Node speed  = '44.205.88.94'
 
         //replaced your Node port 
         merge Node Port  ='50051'
